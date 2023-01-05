@@ -1,0 +1,13 @@
+.mainform{
+	border: 2px solid black;
+	width: 60%;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+}
+
+.formfield{
+	border: 2px solid red;
+	margin: 5px 10px 5px 10px;;
+
+}
